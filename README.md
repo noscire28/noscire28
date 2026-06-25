@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ericson — Azure Administrator & IT Support Engineer
 
-<!--
-**noscire28/noscire28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build secure, production‑grade cloud environments using Microsoft Azure.  
+My experience covers identity, networking, compute, storage, backup, monitoring, and cost governance — with a strong background in MSP-style support and endpoint security.
 
-Here are some ideas to get you started:
+I enjoy designing clean architectures, troubleshooting complex issues, and automating repetitive tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+- **Cloud:** Azure VMs, VNets, NSGs, Storage, Backup, Monitoring, Cost Management  
+- **Identity:** Microsoft Entra ID, MFA, RBAC, Security Defaults  
+- **Networking:** Subnets, NSGs, VPN, private endpoints  
+- **Systems:** Windows Server, Active Directory, Microsoft 365  
+- **Security:** Microsoft Defender, Malwarebytes, Sophos, Bitdefender  
+- **Tools:** Git, PowerShell, Azure CLI, Intune, RMM tools  
+- **Support:** Troubleshooting, ticketing, documentation, MSP workflows  
+
+---
+
+## 📌 Featured Projects
+### **PolyHealth Production Environment (Capstone)**
+A full Azure production build including identity, networking, compute, storage, backup, monitoring, and cost governance.
+
+### **Azure VM Deployment Lab**
+Deploying Windows Server 2022 with secure networking and NSGs.
+
+### **Automation Scripts**
+PowerShell scripts for VM management, user creation, and Azure tasks.
+
+---
+
+## 📫 Contact
+- 📍 Madrid, Spain  
+- 💼 Open to Azure Admin / Cloud Support roles  
